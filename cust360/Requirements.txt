@@ -1,0 +1,14 @@
+PostgreSQL library for Python to connect to the PostgreSQL database
+psycopg2==2.9.6
+
+Airflow and its dependencies for ETL orchestration
+apache-airflow==2.6.3
+
+Pandas for any optional data manipulation
+pandas==1.5.3
+
+SQLAlchemy for working with SQL databases through Python
+SQLAlchemy==2.0.5
+
+Logging and date utilities for task scheduling and logging enhancements
+python-dotenv==0.21.0
